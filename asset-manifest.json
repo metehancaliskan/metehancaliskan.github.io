@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae01de3.css",
+    "main.js": "/static/js/main.bcfd1b87.js",
+    "static/media/goerlifaucet.jpeg": "/static/media/goerlifaucet.888fa7e8ed1e02be0385.jpeg",
+    "static/media/onchain_storage.jpeg": "/static/media/onchain_storage.e823b89c5be078ddec22.jpeg",
+    "static/media/decarbonizer.jpeg": "/static/media/decarbonizer.bb476c2a3cb5625e77b0.jpeg",
+    "static/media/self.png": "/static/media/self.cecc9750f66f4f380015.png",
+    "static/media/P2P-Rent.jpeg": "/static/media/P2P-Rent.fdc5a5d3045c620b787b.jpeg",
+    "index.html": "/index.html",
+    "main.fae01de3.css.map": "/static/css/main.fae01de3.css.map",
+    "main.bcfd1b87.js.map": "/static/js/main.bcfd1b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae01de3.css",
+    "static/js/main.bcfd1b87.js"
+  ]
+}
